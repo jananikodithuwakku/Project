@@ -131,7 +131,5 @@ The **Online Crime Management System (OCMS)** is a web-based application designe
 
 ## Installation Guide
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/jananikodithuwakku/OCMS.git
+1. Clone the repository: https://github.com/jananikodithuwakku/OCMS.git
 
