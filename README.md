@@ -1,11 +1,11 @@
 # Project
 These all done by my self
 
-ABC Restaurant Management System
+# ABC Restaurant Management System
 
 ABC Restaurant Management System is a web-based application developed for managing various operations of a restaurant such as reservations, orders, contact queries, and user management. This system provides different functionalities for admins, staff, and customers.
 
-Features
+## Features
 
 User Registration and Login: Users can register and log in to their accounts to make reservations and view orders.
 Online Reservations: Customers can make reservations for dining in or delivery.
@@ -25,3 +25,73 @@ Installation and Setup
 To run this project locally, follow these steps:
 
 Clone the repository: bash git clone https://github.com/jananik124/ABCRestaurant.git
+
+# EHR for Diabetic Care
+
+## Introduction
+This project is an Electronic Health Record (EHR) system designed specifically for Sri Lankan National Diabetic care. 
+This aims to provide a comprehensive platform for healthcare providers and patients to efficiently manage records and improve the quality of care.
+In this system there are main 6 users as Doctor, Patient, Lab-Technician, Pharmacist, Reciptionist and Admin. 
+
+## Features
+- Patient Record Management: Allows staff users to create, update, and access patient records securely.
+- Diabetic Care Tools: Provides specialized tools and features for managing diabetic care, such as glucose monitoring, medication tracking, and treatment plans.
+- User Authentication and Authorization: Implements secure user authentication and role-based access control to ensure data privacy and confidentiality.
+- Search and Filter Functionality: Enables users to search and filter patient records based on various criteria, such as demographics, medical history, and treatment status.
+
+## Technologies Used
+Backend Development: PHP, JavaScript
+
+Database: SQL
+
+Server: XAMPP
+
+Frontend Framework: CSS, Bootstrap,
+
+## Installation
+Clone the repository
+
+Navigate to the project directory and locate "ehr_db.sql" file
+
+Export database (Recommend using phpmyadmin's SQL Server)
+
+Initialize proper connection according to "conn.php"
+(File path: ehr-final-project -> Final-Project -> data -> conn.php)
+
+Start from preferred login pages using respective sample credentials given in "Login-Info.txt" file
+(File Path: ehr-final-project -> Login-Info.txt)
+
+## Usage
+### Admin 
+- Create and manage staff user accounts
+- Manage dietary and activity recommendations plans
+- View system audit trails
+
+### Doctor
+- Search for a patient using a Patient Health Number(PHN)
+- Color-coded risk visualization
+- Enter visit records
+- View auto-generated charts according to Vital Signs
+- Request lab test
+- Place prescriptions
+
+### Receptionist 
+- Search for a patient using a Patient Health Number(PHN)
+- Register a new patient
+
+### Lab-Technician
+- View and search for requested lab tests
+- Enter result values
+- View past lab tests and results
+  
+### Pharmacist
+- View and search for placed prescriptions
+- Confirm a prescription's status
+- Manage Inventory
+- Change the Unavailiablty of a medicine
+
+## Patient
+- View patient details, visit records, prescriptions and lab tests
+- Access risk-tailored activity and diet plans
+
+Clone the repository: bash git clone https://github.com/mariyadavid03/diabetic-ehr-final-project.git
