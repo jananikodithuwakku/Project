@@ -130,6 +130,5 @@ The **Online Crime Management System (OCMS)** is a web-based application designe
 5. **Crime Mapping Module** – QGIS-based heatmap visualization.
 
 ## Installation Guide
-
-1. Clone the repository: https://github.com/jananikodithuwakku/OCMS.git
+Clone the repository: https://github.com/jananikodithuwakku/OCMS.git
 
