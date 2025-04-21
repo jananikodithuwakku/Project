@@ -133,7 +133,7 @@ The **Online Crime Management System (OCMS)** is a web-based application designe
 Clone the repository: https://github.com/jananikodithuwakku/OCMS.git
 
 
-# THE OUTER CLOVE RESTAURANT 🍽️
+# THE OUTER CLOVE RESTAURANT 
 
 This is a full-featured web-based restaurant management system for **THE OUTER CLOVE RESTAURANT**. The system allows customers to browse the menu, place orders, make reservations, and contact the restaurant, while administrators can manage orders, offers, reservations, and messages through dashboards.
 
