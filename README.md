@@ -197,5 +197,5 @@ This is a full-featured web-based restaurant management system for **THE OUTER C
 
 
 ## Installation Guide
-Clone the repository: 
+Clone the repository: https://github.com/jananikodithuwakku/The-Outer-Clove-restaurant.git
 
